@@ -1,0 +1,5 @@
+1. The terminal is a place where you can operate files and open files. This makes working on a computer much faster which saves time.
+
+2. Git is a Version Control System that lets you manage and keep track of your files. GitHub is a cloud-based hosting service.
+
+3. We use GitHub to collaborate with others, such as projects or fixing bug issues.
